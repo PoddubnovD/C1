@@ -1,0 +1,15 @@
+E:\GeekBrains\git\repo\Examples\Ex_002\bin\Debug\net6.0\Ex_002.exe
+E:\GeekBrains\git\repo\Examples\Ex_002\bin\Debug\net6.0\Ex_002.deps.json
+E:\GeekBrains\git\repo\Examples\Ex_002\bin\Debug\net6.0\Ex_002.runtimeconfig.json
+E:\GeekBrains\git\repo\Examples\Ex_002\bin\Debug\net6.0\Ex_002.dll
+E:\GeekBrains\git\repo\Examples\Ex_002\bin\Debug\net6.0\Ex_002.pdb
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.csproj.AssemblyReference.cache
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.AssemblyInfoInputs.cache
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.AssemblyInfo.cs
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.csproj.CoreCompileInputs.cache
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.dll
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\refint\Ex_002.dll
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.pdb
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\Ex_002.genruntimeconfig.cache
+E:\GeekBrains\git\repo\Examples\Ex_002\obj\Debug\net6.0\ref\Ex_002.dll
